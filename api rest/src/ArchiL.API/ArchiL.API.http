@@ -1,0 +1,6 @@
+@ArchiL.API_HostAddress = http://localhost:5163
+
+GET {{ArchiL.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
